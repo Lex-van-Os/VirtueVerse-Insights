@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+vv-insights-venv
 
 # Spyder project settings
 .spyderproject
